@@ -1,0 +1,8 @@
+
+\.idea/encodings\.xml
+
+\.idea/
+
+*.pyc
+
+\venv
